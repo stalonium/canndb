@@ -1,0 +1,106 @@
+{
+  "NAV": {
+    "HOME": "Home",
+    "LOGIN": "Login",
+    "REGISTER": "Register",
+    "DASHBOARD": "Dashboard",
+    "STRAINS": "Strains",
+    "USAGE": "Usage",
+    "SETTINGS": "Settings",
+    "ADMIN": "Admin"
+  },
+  "THEME": {
+    "TOGGLE": "Toggle Theme"
+  },
+  "LANDING": {
+    "WELCOME": "Welcome to CannDB",
+    "DESCRIPTION": "Manage and catalog your medical cannabis strains",
+    "LOGIN": "Login",
+    "REGISTER": "Register"
+  },
+  "LOGIN": {
+    "TITLE": "Login",
+    "USERNAME": "Username",
+    "PASSWORD": "Password",
+    "SUBMIT": "Login"
+  },
+  "REGISTER": {
+    "TITLE": "Register",
+    "USERNAME": "Username",
+    "EMAIL": "Email",
+    "PASSWORD": "Password",
+    "ACCESS_TOKEN": "Access Token",
+    "SUBMIT": "Register"
+  },
+  "DASHBOARD": {
+    "TITLE": "Dashboard",
+    "TOTAL_STRAINS": "Total Strains",
+    "AVERAGE_DAILY_USE": "Average Daily Use",
+    "RECENT_STRAINS": "Recent Strains"
+  },
+  "STRAIN_FORM": {
+    "ADD_TITLE": "Add New Strain",
+    "EDIT_TITLE": "Edit Strain",
+    "NAME": "Name",
+    "TYPE": "Type",
+    "THC_CONTENT": "THC Content (%)",
+    "CBD_CONTENT": "CBD Content (%)",
+    "QUANTITY": "Quantity (g)",
+    "PERSONAL_SCORE": "Personal Score (1-10)",
+    "PERSONAL_NOTES": "Personal Notes",
+    "ADD": "Add Strain",
+    "UPDATE": "Update Strain"
+  },
+  "STRAIN_LIST": {
+    "TITLE": "Strain List",
+    "ADD_NEW": "Add New Strain",
+    "NAME": "Name",
+    "TYPE": "Type",
+    "THC": "THC",
+    "CBD": "CBD",
+    "QUANTITY": "Quantity",
+    "SCORE": "Score",
+    "ACTIONS": "Actions",
+    "EDIT": "Edit",
+    "DELETE": "Delete"
+  },
+  "USAGE_TRACKER": {
+    "TITLE": "Usage Tracker",
+    "STRAIN": "Strain",
+    "AMOUNT": "Amount (g)",
+    "RECORD": "Record Usage",
+    "STATS": "Usage Statistics",
+    "AVERAGE_DAILY": "Average Daily Use",
+    "TOTAL_MONTHLY": "Total Monthly Use"
+  },
+  "ADMIN": {
+    "TITLE": "Admin Panel",
+    "ACCESS_TOKENS": "Access Tokens",
+    "GENERATE_TOKEN": "Generate New Token",
+    "TOKEN": "Token",
+    "STATUS": "Status",
+    "CREATED_AT": "Created At",
+    "USED_AT": "Used At",
+    "ACTIONS": "Actions",
+    "REVOKE": "Revoke",
+    "REACTIVATE": "Reactivate",
+    "USER_MANAGEMENT": "User Management",
+    "USERNAME": "Username",
+    "EMAIL": "Email",
+    "IS_ADMIN": "Admin",
+    "DELETE": "Delete"
+  },
+  "USER_SETTINGS": {
+    "TITLE": "User Settings",
+    "THEME": "Theme",
+    "LIGHT": "Light",
+    "DARK": "Dark",
+    "SYSTEM": "System",
+    "LANGUAGE": "Language",
+    "ACCOUNT": "Account Settings",
+    "EMAIL": "Email",
+    "NEW_PASSWORD": "New Password",
+    "CONFIRM_PASSWORD": "Confirm Password",
+    "SAVE": "Save Changes"
+  }
+}

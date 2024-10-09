@@ -1,0 +1,106 @@
+{
+  "NAV": {
+    "HOME": "Startseite",
+    "LOGIN": "Anmelden",
+    "REGISTER": "Registrieren",
+    "DASHBOARD": "Dashboard",
+    "STRAINS": "Sorten",
+    "USAGE": "Nutzung",
+    "SETTINGS": "Einstellungen",
+    "ADMIN": "Admin"
+  },
+  "THEME": {
+    "TOGGLE": "Thema wechseln"
+  },
+  "LANDING": {
+    "WELCOME": "Willkommen bei CannDB",
+    "DESCRIPTION": "Verwalten und katalogisieren Sie Ihre medizinischen Cannabis-Sorten",
+    "LOGIN": "Anmelden",
+    "REGISTER": "Registrieren"
+  },
+  "LOGIN": {
+    "TITLE": "Anmelden",
+    "USERNAME": "Benutzername",
+    "PASSWORD": "Passwort",
+    "SUBMIT": "Anmelden"
+  },
+  "REGISTER": {
+    "TITLE": "Registrieren",
+    "USERNAME": "Benutzername",
+    "EMAIL": "E-Mail",
+    "PASSWORD": "Passwort",
+    "ACCESS_TOKEN": "Zugriffstoken",
+    "SUBMIT": "Registrieren"
+  },
+  "DASHBOARD": {
+    "TITLE": "Dashboard",
+    "TOTAL_STRAINS": "Gesamtzahl der Sorten",
+    "AVERAGE_DAILY_USE": "Durchschnittlicher täglicher Verbrauch",
+    "RECENT_STRAINS": "Kürzlich hinzugefügte Sorten"
+  },
+  "STRAIN_FORM": {
+    "ADD_TITLE": "Neue Sorte hinzufügen",
+    "EDIT_TITLE": "Sorte bearbeiten",
+    "NAME": "Name",
+    "TYPE": "Typ",
+    "THC_CONTENT": "THC-Gehalt (%)",
+    "CBD_CONTENT": "CBD-Gehalt (%)",
+    "QUANTITY": "Menge (g)",
+    "PERSONAL_SCORE": "Persönliche Bewertung (1-10)",
+    "PERSONAL_NOTES": "Persönliche Notizen",
+    "ADD": "Sorte hinzufügen",
+    "UPDATE": "Sorte aktualisieren"
+  },
+  "STRAIN_LIST": {
+    "TITLE": "Sortenliste",
+    "ADD_NEW": "Neue Sorte hinzufügen",
+    "NAME": "Name",
+    "TYPE": "Typ",
+    "THC": "THC",
+    "CBD": "CBD",
+    "QUANTITY": "Menge",
+    "SCORE": "Bewertung",
+    "ACTIONS": "Aktionen",
+    "EDIT": "Bearbeiten",
+    "DELETE": "Löschen"
+  },
+  "USAGE_TRACKER": {
+    "TITLE": "Nutzungsverfolgung",
+    "STRAIN": "Sorte",
+    "AMOUNT": "Menge (g)",
+    "RECORD": "Nutzung aufzeichnen",
+    "STATS": "Nutzungsstatistiken",
+    "AVERAGE_DAILY": "Durchschnittlicher täglicher Verbrauch",
+    "TOTAL_MONTHLY": "Gesamter monatlicher Verbrauch"
+  },
+  "ADMIN": {
+    "TITLE": "Admin-Bereich",
+    "ACCESS_TOKENS": "Zugriffstokens",
+    "GENERATE_TOKEN": "Neuen Token generieren",
+    "TOKEN": "Token",
+    "STATUS": "Status",
+    "CREATED_AT": "Erstellt am",
+    "USED_AT": "Verwendet am",
+    "ACTIONS": "Aktionen",
+    "REVOKE": "Widerrufen",
+    "REACTIVATE": "Reaktivieren",
+    "USER_MANAGEMENT": "Benutzerverwaltung",
+    "USERNAME": "Benutzername",
+    "EMAIL": "E-Mail",
+    "IS_ADMIN": "Admin",
+    "DELETE": "Löschen"
+  },
+  "USER_SETTINGS": {
+    "TITLE": "Benutzereinstellungen",
+    "THEME": "Thema",
+    "LIGHT": "Hell",
+    "DARK": "Dunkel",
+    "SYSTEM": "System",
+    "LANGUAGE": "Sprache",
+    "ACCOUNT": "Kontoeinstellungen",
+    "EMAIL": "E-Mail",
+    "NEW_PASSWORD": "Neues Passwort",
+    "CONFIRM_PASSWORD": "Passwort bestätigen",
+    "SAVE": "Änderungen speichern"
+  }
+}
